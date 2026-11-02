@@ -57,7 +57,7 @@ These features are planned for after the MVP:
 
 ## Planning Documents
 
-- [Eisenhower Matrix](docs/eisenhower-matrix.pdf)
+- [Eisenhower Matrix (PDF)](docs/eisenhower-matrix.pdf.pdf)
 - [System diagram and editable source](docs/)
 
 ## Author
