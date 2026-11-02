@@ -1,6 +1,6 @@
-# FreshmanFit — Eisenhower Matrix
+# FreshmanFit - Eisenhower Matrix
 
-## Do — MVP
+## Do - MVP
 
 - Accept and validate the user's graduation year and field of interest.
 - Load internship listings from a prepared CSV file.
